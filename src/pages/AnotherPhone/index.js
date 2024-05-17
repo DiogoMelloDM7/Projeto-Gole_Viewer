@@ -24,7 +24,7 @@ export function AnotherPhone() {
             ) : (
                 <Animatable.Image
         animation='fadeInUp' delay={500}
-        source={require('../../assets/Tela-inicial-do-iOS-14.jpg')}
+        source={require('../../assets/Tela-inicial-do-iOS-15.jpg')}
         style={styles.backgroundImage}
       />
             )}
